@@ -1,0 +1,7 @@
+/*
+ * This build file is part of the docToolchain
+ */
+
+plugins {
+  id "org.asciidoctor.convert" version "1.5.3"
+}
